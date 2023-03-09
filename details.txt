@@ -1,0 +1,24 @@
+
+# commands in terminal #
+
+
+# list of environment variables
+
+go env
+
+
+# create EXE file from goFile
+
+go build fileName.go
+
+
+# run goFile and return Output in terminal
+
+go run fileName.go
+
+
+
+
+Question ??
+
+ ? است cloud computing استفاده از go دلیل سرعت بالای
