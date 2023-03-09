@@ -1,24 +1,29 @@
+########################
+# Commands in terminal #
+########################
 
-# commands in terminal #
+# List of environment variables
 
-
-# list of environment variables
-
-go env
-
-
-# create EXE file from goFile
-
-go build fileName.go
+> go env
 
 
-# run goFile and return Output in terminal
+# Create run (EXE) file from goFile
 
-go run fileName.go
+> go build fileName.go
 
+
+# Run goFile and return Output in terminal
+# this command just run 'package main'
+
+> go run fileName.go
+
+
+##########################################
+##########################################
 
 
 
 Question ??
 
  ? است cloud computing استفاده از go دلیل سرعت بالای
+ نمایش داده میشود go env بررسی همه متغیرهایی که با زدن دستور 
